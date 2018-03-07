@@ -1,0 +1,12 @@
+{
+  "name": "fmanager",
+  "version": "0.0.1",
+  "description": "manages dorm collections",
+  "main": "server.js",
+  "repository": {
+    "url": "https://github.com/pwing-dev/fmanager.git",
+    "type": "git"
+  },
+  "author": "pwing-dev",
+  "license": "LPGLv2"
+}

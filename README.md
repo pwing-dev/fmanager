@@ -1,0 +1,4 @@
+# fmanager
+
+___
+LPGLv2
